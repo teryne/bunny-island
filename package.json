@@ -1,0 +1,18 @@
+{
+  "name": "three",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "npx vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Teryne Yong",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "three": "^0.169.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.9"
+  }
+}
